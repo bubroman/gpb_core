@@ -1,0 +1,8 @@
+imports:
+  - dochub_menu.yaml
+  - datasets/root.yaml
+  - entities/root.yaml
+  - functions/root.yaml
+  - manifest/_root.yaml
+  - mm-discovery/root.yaml
+#  - rules/root.yaml

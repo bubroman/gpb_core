@@ -1,0 +1,6 @@
+components:
+
+# Ответственные за систему
+#  gpb.<система>.<login>:
+#    title: Иванов И.И.
+#    entity: person

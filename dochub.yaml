@@ -1,0 +1,12 @@
+imports:
+  - metamodel/root.yaml
+
+# Документы
+docs:
+  dochub.welcome:         #Главная страница
+    title: Банк ГПБ (АО)
+    type: markdown
+    location: ""
+    source: README.md
+
+
