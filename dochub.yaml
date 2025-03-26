@@ -1,4 +1,5 @@
 imports:
+  - dochub_base/root.yaml
   - metamodel/root.yaml
 
 # Документы
